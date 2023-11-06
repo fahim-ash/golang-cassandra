@@ -1,0 +1,1 @@
+# go mod init <folder_name> : for initializing the first time
